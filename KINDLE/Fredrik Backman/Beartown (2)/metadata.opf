@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00bcfd88-1d82-4854-b98a-4150b0936daa</dc:identifier>
+        <dc:title>Beartown</dc:title>
+        <dc:creator opf:file-as="Backman, Fredrik" opf:role="aut">Fredrik Backman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>From the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;A Man Called Ove&lt;/i&gt;, &lt;i&gt;My Grandmother Asked Me To Tell You She's Sorry,&lt;/i&gt; and &lt;i&gt;Britt-Marie Was Here&lt;/i&gt;, comes a poignant, charming novel about a forgotten town fractured by scandal, and the amateur hockey team that might just change everything.&lt;BR&gt;Winning a junior ice hockey championship might not mean a lot to the average person, but it means everything to the residents of Beartown, a community slowly being eaten alive by unemployment and the surrounding wilderness. A victory like this would draw national attention to the ailing town: it could attract government funding and an influx of talented athletes who would choose Beartown over the big nearby cities. A victory like this would certainly mean everything to Amat, a short, scrawny teenager who is treated like an outcast everywhere but on the ice; to Kevin, a star player just on the cusp of securing his golden future in the NHL; and to Peter, their dedicated coach...</dc:description>
+        <dc:publisher>Atria Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Fredrik Backman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-08T02:43:10.954000+00:00" name="calibre:timestamp"/>
+        <meta content="Beartown" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

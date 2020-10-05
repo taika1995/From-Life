@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8c84baa-0602-4ab3-918c-b35bc9f2439c</dc:identifier>
+        <dc:title>金色梦乡</dc:title>
+        <dc:creator opf:file-as="伊坂幸太郎" opf:role="aut">伊坂幸太郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-11T23:00:00+00:00</dc:date>
+        <dc:description>独居仙台的平凡快递员青柳，在新首相回乡巡游的当天，碰到了多年未见的好友森田。森田告诉青柳他最近碰到的事接触的人包括自己都是一个处心积虑的大阴谋，首相即将被暗杀，而青柳将被当成凶手逮捕。
+　　话音刚落，首相就遭到了暗杀。一头雾水的青柳成为警方不择手段缉捕的对象，而且在媒体炒作下成为十恶不赦的罪人，唯一的对策只有逃，不断地逃……
+　　一路上，形形色色信赖他的人仗义相助：分手多年的前女友、外冷内热的烟火厂老板、受主流社会指责的小混混、前上司、始终相信儿子的父亲、连续杀人魔、自称是“地下工作者”的保土谷，一场逃亡与自卫之旅展开……
+　　青柳能否揭穿阴谋、洗清冤屈？这一切的真相又是什么？真正的暗杀犯到底是谁？
+　　媒体推荐
+　　像他这样的作家将背负起日本文学今后的命运……他有独特的文风，是个天才。
+　　——平成国民天后／宫部美幸
+　　如果现有的推理小说已经走到山穷水尽，伊坂幸太郎一定是那位使日本推理小说命运柳暗花明的人物。
+　　——台湾文坛趋势专家／詹宏志</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>侦探·推理</dc:subject>
+        <meta content="{&quot;伊坂幸太郎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-08T02:56:21.080000+00:00" name="calibre:timestamp"/>
+        <meta content="金色梦乡" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

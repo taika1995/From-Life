@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4215e0e-738e-4f6a-9b00-16e10372f635</dc:identifier>
+        <dc:title>一个叫欧维的男人决定去死</dc:title>
+        <dc:creator opf:file-as="弗雷德里克·巴克曼" opf:role="aut">弗雷德里克·巴克曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-02T00:00:00+00:00</dc:date>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f2cf13b0-18b7-4a55-b4d6-695b16a00e43</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;弗雷德里克·巴克曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-18T04:40:28.320000+00:00" name="calibre:timestamp"/>
+        <meta content="一个叫欧维的男人决定去死" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

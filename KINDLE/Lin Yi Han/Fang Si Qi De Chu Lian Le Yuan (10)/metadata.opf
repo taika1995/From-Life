@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97e10f65-ba99-4fa0-9d4f-a262e6892b53</dc:identifier>
+        <dc:title>房思琪的初恋乐园</dc:title>
+        <dc:creator opf:file-as="林奕含" opf:role="aut">林奕含</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-13T16:00:00+00:00</dc:date>
+        <dc:description>令人心碎卻無能為力的真實故事。
+性、權力、升學主義──青澀的表皮、變態社會的日常
+如果這件事情正在發生，我們要怎麼假裝世界上沒有人以強暴小女孩為樂？
+「我下樓拿作文給李老師改。他掏出來，我被逼到塗在牆上。老師說了九個字：『不行的話，嘴巴可以吧。』我說了五個字：『不行，我不會。』他就塞進來。那感覺像溺水。可以說話之後，我對老師說：『對不起。』有一種功課做不好的感覺。」
+痛苦的際遇是如此難以分享，好險這個世界還有文學。
+小小的房思琪住在金碧輝煌的人生裡，她的臉和她可以想像的將來一樣漂亮。補習班國文名師李國華是同一棟高級住宅的鄰居。崇拜文學的小房思琪同樣崇拜飽讀詩書的李老師。
+有一天李老師說，妳的程度這麼好，不如每個禮拜交一篇作文給我吧，不收妳周點費。思琪聽話地下樓了。老師在家裡等她，桌上沒有紙筆。
+思琪的初戀是李老師。因為李老師把她翻面，把他的東西塞進去。那年的教師節思琪才十三歲，這個世界和她原本認識的不一樣。
+如果這是愛情，為什麼覺得暴力？為什麼覺得被折斷？為什麼老師要一個女學生換過一個女學生？如果這不是愛情，那滿口學問的李老師怎麼能做了以後，還這麼自信、無疑、無愧於心？
+這是一部驚人而特別的小說，小說作者既具有高度敏銳的感受力、又是一個近距離目擊者，使這整件事像一個「倖存的標本」那樣地被保留下來。整本書反覆地、用極度貼近被侵害者的視角，直直逼視那種「別人奪去妳某個珍貴之物」的痛苦──且掠奪之人是以此為樂。</dc:description>
+        <dc:publisher>游击文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789869236478</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;林奕含&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-04T04:22:08.339000+00:00" name="calibre:timestamp"/>
+        <meta content="房思琪的初恋乐园" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

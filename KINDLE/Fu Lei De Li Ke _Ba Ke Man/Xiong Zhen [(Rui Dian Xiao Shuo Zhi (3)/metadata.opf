@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c252e507-29b4-4734-af47-9a53033fbba5</dc:identifier>
+        <dc:title>熊镇【瑞典小说之王弗雷德里克·巴克曼《一个叫欧维的男人决定去死》《外婆的道歉信》《清单人生》之后超越式里程碑新作。】</dc:title>
+        <dc:creator opf:file-as="弗雷德里克·巴克曼" opf:role="aut">弗雷德里克·巴克曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae06c699-8f29-4f80-944b-427fcf40c0d5</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;弗雷德里克·巴克曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-08T02:47:23.246000+00:00" name="calibre:timestamp"/>
+        <meta content="熊镇【瑞典小说之王弗雷德里克·巴克曼《一个叫欧维的男人决定去死》《外婆的道歉信》《清单人生》之后超越式里程碑新作。】" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
